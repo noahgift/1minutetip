@@ -1,12 +1,4 @@
-# oneminutetip
-One Minute Tips
-
-## Tip#2
-
-  - [Local Jupyter Notebook #2](https://github.com/noahgift/oneminutetip/blob/master/fstrings.ipynb)
-  - [Colab Notebook #2](https://colab.research.google.com/drive/1GOrjd67pS2JemL7aSYkskBeI7ckuHtpU)  
-
-## Pragmatic AI Labs
+# Pragmatic AI Labs
 ![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
 
 These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
@@ -21,3 +13,22 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Viewing more content on the [Pragmatic AI Labs YouTube Channel](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
 *   Reading content on [Pragmatic AI Medium](https://medium.com/pragmatic-ai-labs)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
+
+# oneminutetip
+One Minute Tips
+
+## Tip#3
+
+### Lazy Functions
+
+  - [Local Jupyter Notebook #3](https://github.com/noahgift/1minutetip/blob/master/lazy_functions.ipynb)
+  - [Colab Notebook #3](https://colab.research.google.com/drive/1xTAHZOjoHVIZCL9IAV46RAB1t8OPxRbN)  
+  
+## Tip#2
+
+### F-Strings
+
+  - [Local Jupyter Notebook #2](https://github.com/noahgift/oneminutetip/blob/master/fstrings.ipynb)
+  - [Colab Notebook #2](https://colab.research.google.com/drive/1GOrjd67pS2JemL7aSYkskBeI7ckuHtpU)  
+
+
