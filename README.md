@@ -14,6 +14,12 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Reading content on [Pragmatic AI Medium](https://medium.com/pragmatic-ai-labs)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
 
+## Tip#4
+
+## Using AWS Sagemaker
+
+- [Local Jupyter Notebook #4](https://github.com/noahgift/1minutetip/blob/master/1minutetip4.ipynb)
+
 ## Tip#3
 
 ### Lazy Functions
